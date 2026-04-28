@@ -47,6 +47,8 @@ Thumbs.db
 # Environment variables
 .env
 .ENV
+**/.env
+**/.ENV
 
 # Cache
 .pytest_cache/
